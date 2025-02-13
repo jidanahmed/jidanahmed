@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hello World!
+
+My name is Jidan Ahmed, a highschool student learning to code.
+
+I am currently taking APCSA.
+
+I can be reached at jidanoutbox@gmail.com
 
 <!--
 **jidanahmed/jidanahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
